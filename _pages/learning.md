@@ -1,6 +1,6 @@
 ﻿---
-title: "일기"
+title: "배움"
 layout: categories
-permalink: /diary/
+permalink: /learning/
 author_profile: true
 ---

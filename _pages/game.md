@@ -1,6 +1,6 @@
 ﻿---
-title: "일기"
+title: "게임 개발"
 layout: categories
-permalink: /diary/
+permalink: /game/
 author_profile: true
 ---

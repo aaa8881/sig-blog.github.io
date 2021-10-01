@@ -1,11 +1,11 @@
-main:
-  - title: "Learning"
+﻿main:
+  - title: "배움"
     url: /learning/
-  - title: "Development"
+  - title: "개발"
     url: /development/
-  - title: "Minecraft"
-    url: /minecraft/
-  - title: "Tags"
+  - title: "게임"
+    url: /game/
+  - title: "태그"
     url: /tags/
-  - title: "Diary"
+  - title: "일기"
     url: /diary/
